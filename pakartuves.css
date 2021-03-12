@@ -71,3 +71,18 @@
     justify-content: center;
     margin-top: 50px;
 }
+#letters{
+    margin-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 200px;
+}
+.allLetters{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+    height: 20px;
+    cursor: pointer;
+
+}
